@@ -1,2 +1,2 @@
 # nashville-housing
-data cleaning project
+data cleaning project using SQL
